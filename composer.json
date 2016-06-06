@@ -1,0 +1,12 @@
+{
+    "name": "agentcobra/Kanboard-plugin-OpenIDAuth",
+    "authors": [
+        {
+            "name": "agentcobra",
+            "email": "agentcobra@free.fr"
+        }
+    ],
+    "require": {
+        "openid/php-openid": "^2.3"
+    }
+}

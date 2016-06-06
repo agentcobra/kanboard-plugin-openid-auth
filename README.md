@@ -11,5 +11,5 @@ Installation
 
 or
 
-- Create a folder **plugins/OpenidAuth**
+- Create a folder **plugins/OpenIDAuth**
 - Copy all files under this directory
